@@ -1,0 +1,9 @@
+This project showcases the basics of image classification using two popular deep learning frameworks: PyTorch and TensorFlow. 
+
+It includes scripts for training and testing a simple Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
+
+I wanted to familiarize myself with both PyTorch and TensorFlow so i made this basic image classification project to practice with machine learning and image recognition.
+
+For the models first training (1 Epoch) using PyTorch the model got 59% on its first test.  I retrained the model, this time with 5 epochs, and the model got roughly 75% correct on its test.
+
+I'll update the repo with results and new code as I have more time to train and test using both methods.
